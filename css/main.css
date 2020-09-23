@@ -1,0 +1,9 @@
+body {
+  margin-top: 25px;
+  margin-right: 150px;
+  margin-left: 80px;
+  font-family: 'Oxygen', sans-serif;
+  background-color: #ebe8d3;
+}
+a {color: #42912c;}
+a:hover {color: #17521f}
