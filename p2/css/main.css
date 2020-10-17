@@ -1,1 +1,23 @@
-<div style="background-image: url('images/flowertexture.png');">
+body {
+  margin-top: 25px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+a:hover {color: #17521f}
+
+body, html {
+  height: 100%;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("../images/flowertexture.png");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
