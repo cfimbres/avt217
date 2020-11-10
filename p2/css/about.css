@@ -1,0 +1,14 @@
+body {
+  margin-top: 25px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+a:hover {color: #17521f}
+
+html {
+  background: url("../images/aboutbkg.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
