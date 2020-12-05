@@ -28,7 +28,7 @@ a{
 
 .lastlink {
   text-decoration: none;
-  margin-right:5%
+  margin-right:30%
 }
 
 img{
@@ -44,11 +44,13 @@ h1 {
   letter-spacing: 5px;
   text-align: center;
   color: #FFFFFF;
+  text-decoration: underline
 }
 
 h2 {
   font-size: 40px;
   margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 h3 {
@@ -82,12 +84,25 @@ p {
 }
 
 nav {
-  background-size: auto;
-  background-color: #301104;
   margin-top: 0px;
 }
 
 ul {
   color: #301104;
   margin: 0px;
+}
+
+header {
+  background-size: auto;
+  background-color: #301104;
+  margin-top: 0px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+img{
+  border: 5px;
+  padding: 5px;
+  margin-top: 10px;
+  width:300px;
 }
