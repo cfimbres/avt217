@@ -28,13 +28,14 @@ a{
 
 .lastlink {
   text-decoration: none;
-  margin-right:5%
+  margin-right:30%
 }
 
 img{
   border: 5px;
   padding: 5px;
   margin-top: 10px;
+  width:300px;
 }
 
 h1 {
@@ -49,6 +50,7 @@ h1 {
 h2 {
   font-size: 40px;
   margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 h3 {
@@ -82,9 +84,15 @@ p {
 }
 
 nav {
+  margin-top: 0px;
+}
+
+header {
   background-size: auto;
   background-color: #301104;
   margin-top: 0px;
+  padding-bottom: 20px;
+  padding-top: 10px;
 }
 
 ul {
