@@ -16,6 +16,8 @@ a{
   margin-right: 2%;
 }
 
+a:hover {color: #945350}
+
 .noul {
   text-decoration: none;
 }
@@ -31,7 +33,7 @@ a{
 }
 
 .lastlink {
-  text-decoration: none;
+  text-decoration: underline;
   margin-right:30%
 }
 
